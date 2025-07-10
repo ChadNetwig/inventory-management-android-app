@@ -25,6 +25,7 @@ This is a mobile inventory management application developed for Android devices.
 
 ### Login Screen
 ![Login Screen](assets/Screenshot_Chads%20Inventory%20App-main%20menu.jpg)
+<img src="assets/Screenshot_Chads%20Inventory%20App-main%20menu.jpg" alt="Login Screen" width="300"/>
 
 ---
 
