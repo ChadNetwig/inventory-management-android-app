@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chad\'s Inventory App</string>
+    <string name="newuser">New User</string>
+    <string name="login_text">Login</string>
+    <string name="action_new_item">Add New Inventory Item</string>
+    <string name="action_notify">Notifications</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+
+    <string name="inventory_title">Inventory Items</string>
+    <string name="inventory_header_itemname">Inventory Item Name</string>
+    <string name="inventory_header_quantity">Quantity</string>
+
+    <string name="inventory_subject">Create New Inventory Item ?</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
