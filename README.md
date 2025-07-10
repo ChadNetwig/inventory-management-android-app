@@ -24,14 +24,14 @@ This is a mobile inventory management application developed for Android devices.
 ## Screenshots
 
 ### Login Screen
-![Login Screen](assets/Screenshot_Chads%20Inventory%20App-main%20menu.jpg)
+<!-- ![Login Screen](assets/Screenshot_Chads%20Inventory%20App-main%20menu.jpg) -->
 <img src="assets/Screenshot_Chads%20Inventory%20App-main%20menu.jpg" alt="Login Screen" width="300"/>
 
 ---
 
 ### Inventory Items Screen
-![Inventory Items](assets/Screenshot_Chads%20Inventory%20App-inventory%20items.jpg)
-
+<!-- ![Inventory Items](assets/Screenshot_Chads%20Inventory%20App-inventory%20items.jpg) -->
+<img src="assets/Screenshot_Chads%20Inventory%20App-inventory%20items.jpg" alt="Inventory Items" width="300"/>
 ---
 
 ## Technologies Used
